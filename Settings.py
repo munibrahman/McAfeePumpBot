@@ -5,7 +5,7 @@ CONSUMER_KEY = ""
 CONSUMER_SECRET = ""
 
 # Making sure it is indeed him
-MCAFEE_TWITTER_ID = ""
+MCAFEE_TWITTER_ID = "961445378"
 
 # Binance API
 BINANCE_API_KEY = ""
