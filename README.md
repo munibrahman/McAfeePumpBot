@@ -37,5 +37,5 @@ If everything succeeds you should see no errors and only see a json object of nu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
