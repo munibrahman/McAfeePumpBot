@@ -21,7 +21,7 @@ Open ```main.py and``` enter the amount of bitcoin that you want to gamble with 
 You must have python3 installed.
 
 
-## Running the tests
+## Running the script
 
 After everything is completed, run it by typing `$ python3 main.py`
 
