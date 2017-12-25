@@ -31,7 +31,7 @@ If everything succeeds you should see no errors and only see a json object of nu
 
 * [python-binance](https://github.com/sammchardy/python-binance) - API for binance
 * [tweepy](https://github.com/tweepy/tweepy) - Twitter for python!
-* [Cryptocurrencies] (https://github.com/crypti/cryptocurrencies) -  Get a list of all the cryptocurrency symbols and names.
+* [Cryptocurrencies](https://github.com/crypti/cryptocurrencies) -  Get a list of all the cryptocurrency symbols and names.
 
 
 
