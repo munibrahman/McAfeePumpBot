@@ -1,6 +1,6 @@
 # McAfee Twitter Crypto Pump and Dump bot
 
-This script monitors John McAfee's tweets and then purchases coins listed on binance based on the listed coins in his tweets.
+This script monitors John McAfee's tweets and then purchases coins listed on binance based on the mentioned coins in his tweets.
 
 ## A word of caution
 
