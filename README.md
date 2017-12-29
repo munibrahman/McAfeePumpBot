@@ -13,7 +13,7 @@ This bot is simply for fun, don't expect it to make any money whatsoever. I have
 Download the project.
 
 Open ```settings.py``` and input your API keys for twitter and binance.
-Open ```main.py and``` enter the amount of bitcoin that you want to gamble with by changing the `BTC_to_gamble` var.
+Open ```main.py``` and enter the amount of bitcoin that you want to gamble with by changing the `BTC_to_gamble` var.
 
 ### Prerequisites
 
